@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sprincloud.iml" filepath="$PROJECT_DIR$/sprincloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-api/springcloud-api.iml" filepath="$PROJECT_DIR$/springcloud-api/springcloud-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-server-8001/springcloud-server-8001.iml" filepath="$PROJECT_DIR$/springcloud-server-8001/springcloud-server-8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-web-7001/springcloud-web-7001.iml" filepath="$PROJECT_DIR$/springcloud-web-7001/springcloud-web-7001.iml" />
+    </modules>
+  </component>
+</project>
