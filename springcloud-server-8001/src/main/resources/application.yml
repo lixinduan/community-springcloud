@@ -26,3 +26,4 @@ eureka:
 info:
   app.name: springcloud-server-8001
   company.name: xinduan
+
