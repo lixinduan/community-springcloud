@@ -1,0 +1,24 @@
+
+# mybatis配置
+#mybatis:
+  #  mapper-locations: classpath:mapper/*.xml
+  #  type-aliases-package: com.xin.springcloud.entity
+#eureka:
+  #    client:
+  #      service-url:
+  #        defaultZone: http://localhost:9001/eureka/,http://localhost:9002/eureka/,http://localhost:9003/eureka/
+  #      instance:
+  #        instance-id: springcloud-server-8001
+  #  #
+  #  info:
+  #    app.name: springcloud-server-8001
+  #    company.name: xinduan
+
+
+
+    #spring:
+  #  application:
+  #    name: springcloud-server
+
+# spring配置
+
