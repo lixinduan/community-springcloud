@@ -32,7 +32,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="springcloud-community-8003" options="-parameters" />
-      <module name="springcloud-user-8002" options="-parameters" />
+      <module name="springcloud-user-8002" options="" />
     </option>
   </component>
 </project>
